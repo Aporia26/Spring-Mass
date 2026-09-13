@@ -41,7 +41,7 @@ Pressing the **`[SPACE]`** key allows you to record physical readings at any spe
 
 Below is a brief recording of the simulation window in action, demonstrating the real-time Simple Harmonic Motion calculation, and data snapshot logging to the matrix table.
 
-<video src="assets/simulation-demo.mp4" width="100%" controls>
+<video src="Assets/simulation-demo.mp4" width="100%" controls>
   Your browser does not support the video tag.
 </video>
 
